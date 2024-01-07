@@ -9,7 +9,7 @@ To use this converter, make sure you have Node.js installed. Then, follow these 
 1. Clone this repository:
 
 bash
-git clone https://github.com/Himanshu-swn/jsonToExcelConverter.git
+git clone https://github.com/AroraDeepak13/mern-to-do.git
 
 2. Install dependencies for backend and frontend.
 3. Install dependencies:
